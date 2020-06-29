@@ -7,6 +7,6 @@ The another part denotes the use of pure Javascript, as a message to not be depe
 
 ## Browser Compatibility
 
-I was very excited to see if it works on major browsers like Chrome, Firefox and others. Currently tested on latest versions of Chrome, Firefox and works fine enough. Not sure about Opera, IE and Edge, but it should be working.
+I was very excited to see if it works on major browsers like Chrome, Firefox and others. Currently tested on latest versions of Chrome, Firefox and works fine enough. Not sure about Opera, IE and Edge, may be opera needs -webkit- prefixes on transition and transform properties.
 
 See the tutorial @ https://www.youtu.be/B-CVLSndmxM
